@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--
 ![Banner Image](your_banner_image_url_here)  -->
 
-## About Me 🚀
+## About Me 💻
 
 I'm a passionate **Laravel Developer**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
