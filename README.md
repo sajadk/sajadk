@@ -59,7 +59,6 @@ I'm a passionate **Laravel Developer**. I love tackling complex problems, learni
 - **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/sajadk/))
  - **[Twitter]**(your_twitter_profile_link)  -->
 
-
     
 <a href="https://shorturl.at/IWQYQ" target="_blank"><img align="center" src="https://shorturl.at/4Udsg" height="30" width="40" /></a>
 
