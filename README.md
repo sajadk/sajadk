@@ -55,7 +55,7 @@ I'm a passionate **Laravel Developer**. I love tackling complex problems, learni
 
 ## Get in Touch 📬
 
-  - **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/sajadk/))
  - **[Twitter]**(your_twitter_profile_link)  -->
 
