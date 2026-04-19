@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 
 ## About Me 💻
 
-I'm a passionate **Laravel Developer**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a Full-Stack Laravel Developer focused on building scalable web applications and clean user experiences.
+
+I work with Laravel on the backend (APIs, event-driven architecture, Docker, queues) and build responsive frontends using Vue.js, Blade, and Tailwind CSS.
+
+I enjoy turning ideas into real-world applications, writing maintainable code, and improving both system design and UI/UX.
 
 <!--
 - 🌱 Currently learning: **Tall Stack**
